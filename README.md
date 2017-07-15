@@ -1,5 +1,7 @@
 # nodejs-docker-starter
 
+Boilerplate to quickly develop Nodejs apps.
+
 ## Contents
 
   * [Node.js](server/)
@@ -9,7 +11,5 @@
 
 
 ## Usage 
-
-### Quick usage
 
 Do `docker-compose up` then go to `http://localhost:3000`
